@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gregory-crypto
+- 👋 Hi, I’m @gregothebyteknight (Gregory)
 - 👀 I’m interested in data analysis, machine learning, bioinformatics
-- 🌱 I’m currently learning neural networks, bioinformatics
+- 🌱 I’m currently many things
 
 <!---
 Gregory-crypto/Gregory-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
